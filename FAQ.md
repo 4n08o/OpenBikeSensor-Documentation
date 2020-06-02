@@ -13,13 +13,15 @@ Work in progress, heavily stolen from https://wiki.natenom.de/verkehr/projekte/a
     <summary>Gibt es das nicht schon? (Click to expand)</summary>
     Es gibt mehrere solcher Projekte; z. B. „Radmesser vom Tagesspiegel“, „Abstand messen“ aus Köln, FIXME, FIXME.
 </details>
-
-## Kann ich den OpenBikeSensor kaufen?
-
-Nein; ein Vertrieb ist nicht geplant. Du musst dir den OpenBikeSensor entweder selbst bauen oder jemanden dafür bezahlen, dass er ihn für dich baut.
-Kann ich den OpenBikeSensor selbst bauen?
-
+<details>
+    <summary>Kann ich den OpenBikeSensor kaufen?</summary>
+    Nein; ein Vertrieb ist nicht geplant. Du musst dir den OpenBikeSensor entweder selbst bauen oder jemanden dafür bezahlen, dass er ihn für dich baut.
+</details>
+<details>
+<summary>Kann ich den OpenBikeSensor selbst bauen?</summary>
 Ja, wenn du die notwendigen technischen Fertigkeiten hast. Die Bauanleitung gibt es hier als PDF-Datei.
+</details>
+
 Könnt Ihr mir dabei helfen?
 
 Wir bekommen viele Anfragen, mit der Bitte, beim Bau des OpenBikeSensors zu unterstützen. Aktuell arbeiten nur wenige Menschen an dem Projekt OpenBikeSensor mit, ehrenamtlich und in ihrer Freizeit.

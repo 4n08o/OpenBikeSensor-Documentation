@@ -4,10 +4,10 @@ Work in progress, heavily stolen from https://wiki.natenom.de/verkehr/projekte/a
 
 # OpenBikeSensor FAQ
 
-# Inhalt
+## Inhalt
 [Allgemein](#Head_Allgemein)
 
-## Allgemein
+### Allgemein
 {#Head_Allgemein}
 <details>
 	<summary>Was ist der OpenBikeSensor? (Click to expand)</summary>

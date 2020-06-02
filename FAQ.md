@@ -21,15 +21,14 @@ Work in progress, heavily stolen from https://wiki.natenom.de/verkehr/projekte/a
 <summary>Kann ich den OpenBikeSensor selbst bauen?</summary>
 Ja, wenn du die notwendigen technischen Fertigkeiten hast. Die Bauanleitung gibt es hier als PDF-Datei.
 </details>
-
-Könnt Ihr mir dabei helfen?
-
-Wir bekommen viele Anfragen, mit der Bitte, beim Bau des OpenBikeSensors zu unterstützen. Aktuell arbeiten nur wenige Menschen an dem Projekt OpenBikeSensor mit, ehrenamtlich und in ihrer Freizeit.
-
-Bitte hab Verständnis dafür, dass wir nur ausnahmsweise, wenn überhaupt, auf solche Anfragen eingehen können.
-Kann ich jemanden bezahlen, den OpenBikeSensor für mich zu bauen?
-
+<details>
+<summary>Könnt Ihr mir dabei helfen?</summary>
+Wir bekommen viele Anfragen, mit der Bitte, beim Bau des OpenBikeSensors zu unterstützen. Aktuell arbeiten nur wenige Menschen an dem Projekt OpenBikeSensor mit, ehrenamtlich und in ihrer Freizeit. Bitte habt Verständnis dafür, dass wir nur ausnahmsweise, wenn überhaupt, auf solche Anfragen eingehen können.
+</details>
+<details>
+<summary>Kann ich jemanden bezahlen, den OpenBikeSensor für mich zu bauen?</summary>
 Ja; FIXME wer, vermittlung an Menschen, die das können?
+</details>
 Wieviel kostet der OpenBikeSensor?
 
     30-40€ für die Bauteile, je nach Versandkosten.

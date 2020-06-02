@@ -7,7 +7,8 @@ Work in progress, heavily stolen from https://wiki.natenom.de/verkehr/projekte/a
 # Inhalt
 [Allgemein](#Head_Allgemein)
 
-## Allgemein {#Head_Allgemein}
+## Allgemein
+{#Head_Allgemein}
 <details>
 	<summary>Was ist der OpenBikeSensor? (Click to expand)</summary>
 	Der OpenBikeSensor (ehemals RadmesserS) wird am Fahrrad befestigt und misst verschiedene Daten, wie z. B. den Abstand beim Überholtwerden, und speichert diese. Sowohl die Hardwarespezifikation als auch die verwendete Software sind frei verfügbar. Jeder Interessierte kann somit den OpenBikeSensor selbst bauen und nutzen.

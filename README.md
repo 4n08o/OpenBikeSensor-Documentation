@@ -2,11 +2,12 @@
 
 (for English see below)
 
+
 # Deutsch
 
-* [Überblick](LIESMICH.md)
+* [Überblick](Deutsch/LIESMICH.md)
 
 # English
-** [Parts List](PartsList.md)
-** [Build Instructions](BuildManual.md)
-** [FAQ](FAQ.md)
+* [Parts List](Engish/PartsList.md)
+* [Build Instructions](English/BuildManual.md)
+* [FAQ](English/FAQ.md)
